@@ -1,0 +1,21 @@
+---
+title: "10.9.2020 Technische Grundlagen"
+date: 2020-09-22
+---
+# *CodiMD + MarkDown*
+Die CodiMD-Software der GWDG (Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen) ermöglicht kollaboratives Bearbeiten von Dokumenten in Echtzeit. 'MD' steht hierbei für die Sprache MarkDown. Diese Lösung scheint von Etherpad inspiriert worden zu sein, welches ich bereits einmal im Rahmen einer Gruppenarbeit genutzt habe (als Alternative zu Google Docs). In BAIN wird diese Installation für die Erstellung und das Publizieren der Skripte verwendet, wobei sich diese aufgrund der erwähnten Funktionalitäten stark von den üblichen statischen PPT-Folien und PDFs von Dozierenden unterscheiden. In BAIN ist durch CodiMD vielmehr ein gemeinsames Dokument zwischen Dozenten und Studierenden vorhanden, das von allen editiert und somit auch als Austauschplattform genutzt werden kann. Diese Form von Vorlesungsskript war mir bis anhin neu und ich muss zugeben, dass es stets etwas Überwindung braucht, bis ich mich an neue Software oder Sprachen heranwage. Dementsprechend beruhigt hat mich der Hinweis seitens Lohmeier, dass wir MarkDown spielerisch "nebenbei" erlernen und während des Unterrichts bereits kleinere Editieraufgaben im Dokument gestellt wurden.
+
+Quelle: [Website GWDG](https://info.gwdg.de/docs-dev/doku.php?id=de:services:email_collaboration:codimd)
+
+# *Lerntagebuch mi GitHub Pages*
+Für das Lerntagebuch habe ich mich für GitHub Pages entschieden, da ich WordPress bereits kenne und mich die zur Verfügung gestellte, detaillierte Anleitung sehr zuversichtlich stimmte. Mit dieser Anwendung lassen sich Webseiten direkt aus dem GitHub-Repository generieren und auf den Servern von GitHub kostenlos publizieren. Für die Transformation der Dateien in statische Webseiten nutzt GitHub Pages [Jekyll]( https://jekyllrb.com). Ausserdem bot mir Gaby Support an, falls beim Einrichten des Blogs Schwierigkeiten auftreten sollten. Tatsächlich hatte ich das Problem, dass nur gewisse Beiträge im Web-Blog angezeigt wurden und wäre wohl ohne Gabys Hilfe nicht so schnell darauf gekommen, dass der Fehler in einem Detail lag: Underscore _ in Dateinamen ist verboten! 
+
+#### Warum GitHub Pages mit Jekyll? Die wichtigsten Eigenschaften im Überblick:
+In der ersten Unterrichtseinheit wurde eine Liste von Fächern eingeblendet, die jenen Wissensstand vorstellte, den wir uns mittlerweile im Studium angeeignet haben sollten. Dabei erfreute mich zunächst, dass sich – mir kommt es vor zum ersten Mal – ein Dozent mit dem Curriculum auseinandergesetzt zu haben schien. Obwohl mir IT-Module grundsätzlich weniger gut liegen und ich diese in der Erinnerung mit überdurchschnittlich hohem Aufwand und gleichzeitig mässigem Ergebnis verbinde, freue ich mich auf BAIN. Auch wenn mir vielleicht die einzelnen Programmiersprachen oder Metadatenstandards, die ich gelernt habe, nicht mehr im Detail präsent sind, habe ich doch das Gefühl, noch immer Kenntnis der grundlegenden Konzepte zu haben. So kann ich dann hoffentlich ohne grössere Schwierigkeiten daran andocken und mit neuem Wissen verknüpfen. Mit MarkDown liegt hierfür bereits ein Beispiel vor: Obwohl mir diese Sprache neu ist, konnte ich sie mit dem vorhandenen Wissen über Auszeichnungsprachen und der praktischen Kenntnis von z.B. HTML schnell lernen und anwenden. Dennoch wird wohl zu bestimmten Themen gezielte individuelle Repetition nötig sein, wobei wir sicherlich auch als Klasse gerne auf Lohmeiers Angebot zurückkommen, gewisse Themen zu wiederholen.
+
+
+# *Arbeitsumgebung (Linux)*
+Damit wir auf unseren eigenen Computern keine Bibliotheks- und Archivsoftware installieren müssen, erhalten alle Studierenden eine virtuelle Maschine der FHGR mit Ubuntu Linux (Version 20.04 LTS). Ubuntu wiederum basiert auf dem Betriebssystem [Debian]( https://www.debian.org). Linux-Server sind meist mit gar keiner grafischen Oberfläche ausgestattet, sondern werden direkt über die Kommandozeile bedient. Warum? Einerseits aus Effizienz- und Traditionsgründen, vor allem jedoch aufgrund der IT-Sicherheit: Grafische Oberflächen können Sicherheitslücken enthalten, weshalb diese in Linux ausgeschaltet ist. 
+
+**Spickzettel für die wichtigsten Kommandos:** [Library Carpentry Reference]( https://librarycarpentry.org/lc-shell/reference.html)
+
