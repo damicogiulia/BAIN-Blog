@@ -3,7 +3,7 @@ title: "Vorkenntnisse & Erwartungen"
 date: 2020-09-20
 ---
 #### *BAIN im Studium*
-In der ersten Unterrichtseinheit wurde eine Liste von Fächern eingeblendet, die jenen Wissensstand vorstellte, den wir uns mittlerweile im Studium angeeignet haben sollten. Dabei erfreute mich zunächst, dass sich – mir kommt es vor zum ersten Mal – ein Dozent mit dem Curriculum auseinandergesetzt zu haben schien. Obwohl mir IT-Module grundsätzlich weniger gut liegen und ich diese in der Erinnerung mit überdurchschnittlich hohem Aufwand und gleichzeitig mässigem Ergebnis verbinde, freue ich mich auf BAIN. Auch wenn mir vielleicht die einzelnen Programmiersprachen oder Metadatenstandards, die ich gelernt habe, nicht mehr im Detail präsent sind, habe ich doch das Gefühl, noch immer Kenntnis der grundlegenden Konzepte zu haben. So kann ich dann hoffentlich ohne grössere Schwierigkeiten daran andocken und mit neuem Wissen verknüpfen. Mit MarkDown liegt hierfür bereits ein Beispiel vor: Obwohl mir diese Sprache neu ist, konnte ich sie mit dem vorhandenen Wissen über Auszeichnungsprachen und der praktischen Kenntnis von z.B. HTML schnell lernen und anwenden. Dennoch wird wohl zu bestimmten Themen gezielte individuelle Repetition nötig sein, wobei wir sicherlich auch als Klasse gerne auf Lohmeiers Angebot zurückkommen, gewisse Themen zu wiederholen.
+In der ersten Unterrichtseinheit wurde eine Liste von Fächern eingeblendet, die jenen Wissensstand vorstellte, den wir uns mittlerweile im Studium angeeignet haben sollten. Dabei erfreute mich zunächst, dass sich – mir kommt es vor zum ersten Mal – ein Dozent mit dem Curriculum auseinandergesetzt zu haben schien. Obwohl mir IT-Module grundsätzlich weniger gut liegen und ich diese in der Erinnerung mit überdurchschnittlich hohem Aufwand und gleichzeitig mässigem Ergebnis verbinde, freue ich mich auf BAIN. Auch wenn mir vielleicht die einzelnen Programmiersprachen oder Metadatenstandards, die ich gelernt habe, nicht mehr im Detail präsent sind, habe ich doch das Gefühl, noch immer Kenntnis der grundlegenden Konzepte zu haben. So kann ich dann hoffentlich ohne grössere Schwierigkeiten daran andocken und mit neuem Wissen verknüpfen. Mit MarkDown liegt hierfür bereits ein Beispiel vor: Obwohl mir diese Sprache neu ist, konnte ich sie mit dem vorhandenen Wissen über Auszeichnungsprachen und der praktischen Kenntnis von z.B. HTML schnell lernen und anwenden. Dennoch wird wohl zu bestimmten Themen gezielte individuelle Repetition nötig sein, wobei wir sicherlich auch als Klasse gerne auf Lohmeiers Angebot zurückkommen, gewisse Themen im Plenum zu wiederholen.
 
 
 #### *BAIN im Beruf*
@@ -11,6 +11,6 @@ Beruflich arbeite ich zurzeit einerseits im Schweizerischen Kunstarchiv (SKA) de
 
 
 #### *Ich erhoffe mir von BAIN, dass...*
-
+wir einen praxisnahen und konkreten Einblick in Archiv- und Bibliotheksoftware mitsamt der aktuellen Fragen und Probleme rund um diese Anwendungen erhalten. 
 
 
