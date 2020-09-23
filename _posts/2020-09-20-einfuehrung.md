@@ -11,6 +11,6 @@ Beruflich arbeite ich zurzeit einerseits im Schweizerischen Kunstarchiv (SKA) de
 
 
 #### *Ich erhoffe mir von BAIN, dass...*
-wir einen praxisnahen und konkreten Einblick in Archiv- und Bibliotheksoftware mitsamt der aktuellen Fragen und Probleme rund um diese Anwendungen erhalten. 
+wir einen praxisnahen und konkreten Einblick in Archiv- und Bibliotheksoftware mitsamt der aktuellen Fragen und Probleme rund um diese Anwendungen erhalten. Mich interessiert dabei vor allem das Thema Metadaten, Schnittstellen und die Interoperabilität von Systemen: Was muss beim Mapping beachtet werden? Was bedeutet konkret "eine Schnittstelle bauen"?
 
 
